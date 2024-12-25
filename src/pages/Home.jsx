@@ -1,6 +1,5 @@
 import About from "./About";
 import Price from "./Price";
-import Service from "./Service";
 
 export default function Home() {
   return (
